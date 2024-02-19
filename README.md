@@ -9,8 +9,8 @@ To install a python environment able to run the code:
 
 **Phases:**
 - [x] Dataset and repo preparation
-- [ ] Dataset cleaning
-- [ ] Feature extraction
+- [x] Dataset cleaning
+- [x] Feature extraction
 - [ ] Test different classification models
 - [ ] Explainability pipeline
 - [ ] Create report

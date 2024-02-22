@@ -17,3 +17,5 @@ dependencies:
   - seaborn=0.13
   - shap=0.42
   - tqdm
+  - pip:
+    - pytorch-tabnet

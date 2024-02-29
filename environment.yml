@@ -16,6 +16,7 @@ dependencies:
   - scipy=1.11
   - seaborn=0.13
   - shap=0.42
+  - xgboost
   - tqdm
   - pip:
     - pytorch-tabnet

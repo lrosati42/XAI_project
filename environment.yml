@@ -22,5 +22,6 @@ dependencies:
   - shap=0.42
   - lime
   - tqdm
+  - xgboost
   - pip:
     - pytorch-tabnet

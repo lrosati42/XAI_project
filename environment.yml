@@ -4,6 +4,10 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - altair
+  - bitarray
+  - deap
+  - dice-ml
   - jupyter=1.0
   - jupyterlab
   - matplotlib=3.8
@@ -16,6 +20,7 @@ dependencies:
   - scipy=1.11
   - seaborn=0.13
   - shap=0.42
+  - lime
   - tqdm
   - pip:
     - pytorch-tabnet

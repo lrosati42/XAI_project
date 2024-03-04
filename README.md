@@ -4,7 +4,7 @@
 - Chandana sree Mala
 - Luigi Rosati
 
-To install a python environment able to run the code:
+To create a python environment able to run the code:
 `conda env create -f environment.yml`
 
 **Phases:**

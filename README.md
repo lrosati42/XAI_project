@@ -12,5 +12,5 @@ To install a python environment able to run the code:
 - [x] Dataset cleaning
 - [x] Feature extraction
 - [x] Test different classification models
-- [ ] Explainability pipeline
-- [ ] Create report
+- [x] Explainability pipeline
+- [x] Create report
